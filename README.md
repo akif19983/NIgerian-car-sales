@@ -1,4 +1,4 @@
-# NIgerian-car-sales
+# Nigerian-car-sales
 Tableua visual presentation: https://public.tableau.com/app/profile/amir.akif/viz/Nigeriancarsales/Dashboard1
 
 - Present the total car sold
